@@ -1,1 +1,1 @@
-A Simple Responsive web page using HTML, CSS, and boostrap4. The web page contains a Menu, simple Data in a Grid, Category as a widget, and a search Bar. I hope this simple code will be helpful and useful for beginners to Front End Web Development.
+A Simple Responsive web page using HTML, CSS, and Boostrap4. The web page contains a Menu, simple Data in a Grid, Category as a widget, and a search Bar. I hope this simple code will be helpful and useful for beginners to Front End Web Development.
